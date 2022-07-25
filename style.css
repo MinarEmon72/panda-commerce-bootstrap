@@ -1,0 +1,45 @@
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.btn-buy-now {
+    color: #FF136F;
+}
+
+.panda-btn-buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.watch-category {
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.watch-category img {
+    width: 100px;
+}
+
+.bag-category {
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.bag-category img {
+    width: 100px;
+}
+
+.shoe-category {
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.shoe-category img {
+    width: 100px;
+}
